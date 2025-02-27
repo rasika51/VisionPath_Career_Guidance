@@ -1,46 +1,13 @@
-## Project Title: `Hunter`
+## 🎯 VisionPath – Career Guidance Web Application
 
-[Live Site](https://hunter-iota.vercel.app/)
+**VisionPath** is a **career guidance platform** designed to help **school leavers, undergraduates, and postgraduates** navigate their career journey. Many individuals struggle to find the right career path due to a lack of direction and resources. **VisionPath** solves this problem by providing **personalized career advice, career plans, and essential resources** to help users make informed decisions and achieve their goals.
 
-### Access Credentials:
+---
 
--   Recruiter:
-    -   recruiter1@gmail.com
-    -   Recruiter1#123456
--   User:
-    -   user1@gmail.com
-    -   User1#123456
-## Install
-
-This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
-
-- Clone or download `the project folder` and then unzip the files.
-- go to the root directory of the job-portal client, you can use `cd space folder-name` to change the folder directory.
-
-### For Frontend 
-- follow the command to run the client site: 
-
-```sh
-$ npm install
-```
-```sh
-$ npm run dev
-```
-
-## Usage
-
-This is only a documentation package. You can print out [spec.md](spec.md) to your console:
-
-```sh
-$ standard-readme-spec
-# Prints out the standard-readme spec
-```
-
-### Contributors
-
-This project exists thanks to my youtube audience who contribute. 
-
-
-## License
-
-[MIT](LICENSE) © Md Al Mamun
+## 🌟 Key Features  
+✔️ **User Profiles** – Users can create and manage their profiles  
+✔️ **Skill Assessment** – Identify strengths and weaknesses  
+✔️ **Personalized Career Recommendations** – AI-powered career suggestions  
+✔️ **Career Roadmaps** – Step-by-step guidance for achieving goals  
+✔️ **Educational & Job Resources** – Public and private sector opportunities  
+✔️ **Easy-to-Use Interface** – Simple and intuitive design
